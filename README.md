@@ -2,19 +2,13 @@
 
 Este projeto simula a análise de risco de crédito de clientes, utilizando técnicas de Machine Learning para prever o **score de crédito** com base em dados financeiros, comportamentais e históricos.
 
----
-
 ## 👩‍💻 Autor
 
 Maria Clara C Soares
 
----
-
 ## 💼 Contexto
 
 Criado com base em um desafio prático da **Hashtag Treinamentos**, este projeto foi adaptado e aprofundado por mim com o objetivo de aplicar conhecimentos em **pré-processamento de dados**, **análise exploratória**, **modelagem preditiva** e **interpretação de modelos de IA**.
-
----
 
 ## 📊 Etapas do Projeto
 
@@ -28,8 +22,6 @@ Criado com base em um desafio prático da **Hashtag Treinamentos**, este projeto
 6. **Avaliação de desempenho dos modelos**
 7. **Predição do score para novos clientes**
 8. **Interpretação das variáveis mais relevantes**
-
----
 
 ## 📁 Dados
 
@@ -45,27 +37,28 @@ Cada linha representa um cliente e seu histórico mensal com atributos como:
 - Comportamento de pagamento
 - Score de crédito (rótulo a ser previsto)
 
----
-
 ## 🤖 Tecnologias e Bibliotecas Utilizadas
 
 - Python (Pandas, NumPy)
 - Scikit-learn (RandomForest, KNN, train_test_split, LabelEncoder, accuracy_score)
 - Jupyter Notebook
 
----
-
 ## 🏆 Resultados
 
 - O modelo **Random Forest** obteve acurácia de **83%**, superando o modelo KNN.
 - A variável mais influente no score foi a **dívida total**, seguida por **juros de empréstimo** e **mix de crédito**.
 
----
-
 ## 📈 Prints (ou Gráficos)
 
+<img width="1280" height="521" alt="image" src="https://github.com/user-attachments/assets/b565d9bd-668a-478b-8d7c-7f0792f73539" />
 
----
+<img width="1313" height="548" alt="image" src="https://github.com/user-attachments/assets/444b6f20-9947-4a8e-9483-248311940c9b" />
+
+<img width="1297" height="537" alt="image" src="https://github.com/user-attachments/assets/671bbdf6-c09f-43f8-ba87-28316168e461" />
+
+<img width="1291" height="559" alt="image" src="https://github.com/user-attachments/assets/dcf632e5-1e14-4f79-8e29-5522b90545e0" />
+
+<img width="1286" height="545" alt="image" src="https://github.com/user-attachments/assets/65e8d5a5-2116-4ed9-b640-e50658f9644b" />
 
 ## 📌 Observações
 
