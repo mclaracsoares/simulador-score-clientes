@@ -48,7 +48,7 @@ Cada linha representa um cliente e seu histórico mensal com atributos como:
 - O modelo **Random Forest** obteve acurácia de **83%**, superando o modelo KNN.
 - A variável mais influente no score foi a **dívida total**, seguida por **juros de empréstimo** e **mix de crédito**.
 
-## 📈 Prints (ou Gráficos)
+## 📈 Prints
 
 <img width="1280" height="521" alt="image" src="https://github.com/user-attachments/assets/b565d9bd-668a-478b-8d7c-7f0792f73539" />
 
