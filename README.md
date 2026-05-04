@@ -1,16 +1,16 @@
-# 🧠 Simulador de Score de Crédito com IA
+# Simulador de Score de Crédito com IA
 
 Este projeto simula a análise de risco de crédito de clientes, utilizando técnicas de Machine Learning para prever o **score de crédito** com base em dados financeiros, comportamentais e históricos.
 
-## 👩‍💻 Autor
+## Autor
 
 Maria Clara C Soares
 
-## 💼 Contexto
+## Contexto
 
 Criado com base em um desafio prático da **Hashtag Treinamentos**, este projeto foi adaptado e aprofundado por mim com o objetivo de aplicar conhecimentos em **pré-processamento de dados**, **análise exploratória**, **modelagem preditiva** e **interpretação de modelos de IA**.
 
-## 📊 Etapas do Projeto
+## Etapas do Projeto
 
 1. **Importação e visualização da base de dados**
 2. **Identificação e correção de inconsistências**
@@ -23,7 +23,7 @@ Criado com base em um desafio prático da **Hashtag Treinamentos**, este projeto
 7. **Predição do score para novos clientes**
 8. **Interpretação das variáveis mais relevantes**
 
-## 📁 Dados
+## Dados
 
 - **Base de Treino:** `clientes.csv` (100.000 registros)
 - **Base de Novos Clientes:** `novos_clientes.csv`
@@ -37,18 +37,18 @@ Cada linha representa um cliente e seu histórico mensal com atributos como:
 - Comportamento de pagamento
 - Score de crédito (rótulo a ser previsto)
 
-## 🤖 Tecnologias e Bibliotecas Utilizadas
+## Tecnologias e Bibliotecas Utilizadas
 
 - Python (Pandas, NumPy)
 - Scikit-learn (RandomForest, KNN, train_test_split, LabelEncoder, accuracy_score)
 - Jupyter Notebook
 
-## 🏆 Resultados
+## Resultados
 
 - O modelo **Random Forest** obteve acurácia de **83%**, superando o modelo KNN.
 - A variável mais influente no score foi a **dívida total**, seguida por **juros de empréstimo** e **mix de crédito**.
 
-## 📈 Prints
+## Prints
 
 <img width="1280" height="521" alt="image" src="https://github.com/user-attachments/assets/b565d9bd-668a-478b-8d7c-7f0792f73539" />
 
